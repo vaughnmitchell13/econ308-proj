@@ -13,7 +13,7 @@
   - Both `Manhattan_Subway_Ridership_2024.csv` and `Manhattan_Subway_Ridership_2025.csv` were loaded into ArcGIS Pro using the `XY Table to Point` tool.
   - A new layer called `Traffic Congestion Zone` was drawn to reflect Manhattan's current congestion relief area.
   - A new field called `inside_zone` was added to both attribute tables, using the `Select by Location` tool to fill in 1's or 0's if the station was inside the zone.
-  - Both tables were exported for final revisions in [Data-Postprocessing.ipynb](./Data-Postprocessing.ipynb)
+  - Both tables were exported for final revisions in [Data-Postprocessing.ipynb](./Data-Postprocessing.ipynb); the final datasets can be found [here](./data/).
 
 <img src=https://github.com/vaughnmitchell13/econ308-proj/blob/main/Layout.png width=800px>
 
