@@ -14,6 +14,7 @@
   - A new layer called `Traffic Congestion Zone` was drawn to reflect Manhattan's current congestion relief area.
   - A new field called `inside_zone` was added to both attribute tables, using the `Select by Location` tool to fill in 1's or 0's if the station was inside the zone.
   - Both tables were exported for final revisions in [Data-Postprocessing.ipynb](./Data-Postprocessing.ipynb); the final datasets can be found [here](./data/).
+  - The map below, although not exactly our intention with a difference-in-differences analysis, is still valuable to see the difference in average ridership from 2024 to 2025.
 
 <img src=https://github.com/vaughnmitchell13/econ308-proj/blob/main/Layout.png width=800px>
 
